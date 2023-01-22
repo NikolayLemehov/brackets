@@ -22,5 +22,9 @@
   "devDependencies": {
     "mocha": "^10.1.0"
   },
-  "homepage": "https://github.com/yankouskia/additional_5#readme"
+  "homepage": "https://github.com/yankouskia/additional_5#readme",
+  "volta": {
+    "node": "16.19.0",
+    "npm": "8.19.3"
+  }
 }
